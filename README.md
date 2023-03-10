@@ -1,4 +1,4 @@
-# Reducing Human Effort in Human-in-the-Loop Systems
+# Improving the Efficiency of Human-in-the-Loop Systems: Adding Artificial to Human Experts
 
 This is a [PyTorch](https://pytorch.org) implementation of hybrid _AI-in-the-Loop_ (AIITL) systems.
 The system creates artificial experts that incrementally learn to classify the unknown data instances which previously had to be reviewed by a human expert. 
